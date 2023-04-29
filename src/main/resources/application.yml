@@ -1,0 +1,18 @@
+animal:
+  config-map:
+    default:
+      number-leg: 0
+      can-fly: false
+      can-swim: false
+    dog:
+      number-leg: 4
+      can-fly: false
+      can-swim: false
+    chicken:
+      number-leg: 2
+      can-fly: true
+      can-swim: false
+    duck:
+      number-leg: 2
+      can-fly: true
+      can-swim: true
